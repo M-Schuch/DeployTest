@@ -50,6 +50,12 @@ body {
     align-items: center;
 }
 
+.tools {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 table {
     border-collapse: collapse;
     margin: 1% 1% 1% 1%;
