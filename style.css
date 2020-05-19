@@ -82,6 +82,10 @@ th {
     color: white;
 }
 
+span {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 800px) {
     .barreSelection ul {
         list-style-type: none;
