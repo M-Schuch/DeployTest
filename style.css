@@ -7,6 +7,23 @@ body {
     line-height: 150%;
 }
 
+h1 {
+    text-align: center;
+    color: deepskyblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2 > span {
+    color: deeppink;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
 .barreSelection ul {
     list-style-type: none;
     margin: 0;
